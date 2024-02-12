@@ -12,5 +12,5 @@ This project isn't just about pretty graphs, though. It's been a journey of unde
 
 "The Outbreak of Covid-19" isn't just another data project. It's my way of trying to make sense of this crazy time we're living in. So take a look around, and let's see what we can learn together!
 
-Note: While GitHub may not display all visualizations properly, snapshots of the graphs and plots generated during the analysis have been published on my LinkedIn profile. You can find them [here](https://www.linkedin.com/feed/update/urn:li:activity:7162356370384564224/)
+Note: While GitHub may not display all visualizations properly, snapshots of the graphs and plots generated during the analysis have been published on my LinkedIn profile. You can find them [here]([https://www.linkedin.com/feed/update/urn:li:activity:7162356370384564224/](https://www.linkedin.com/feed/update/urn:li:activity:7162677402878369792/)https://www.linkedin.com/feed/update/urn:li:activity:7162677402878369792/)
 
